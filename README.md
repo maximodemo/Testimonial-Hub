@@ -58,15 +58,15 @@ En este proyecto, me enfoqué en la arquitectura del dashboard administrativo y 
 
 ## Equipo
 
-| Nombre                | Rol                  | LinkedIn                                         |
-| :-------------------- | :------------------- | :------------------------------------------------|
-| **Maximo Demo**       | Full Stack Developer | [LinkedIn](www.linkedin.com/in/maximodemo/)      |
-| Hernan Casasola       | Tech Lead            |                                                  |
-| Lautaro Frioni        | Frontend Developer   |                                                  |
-| Lorenzo Ruggeri       | Backend Developer    |                                                  |
-| Federico Spagnolo     | Backend Developer    |                                                  |
-| Carla Joumier         | UX/UI Designer       |                                                  |
-| Camila Nocella        | QA Tester            |                                                  |
+| Nombre                | Rol                  | LinkedIn                                            |
+| :-------------------- | :------------------- | :---------------------------------------------------|
+| **Maximo Demo**       | Full Stack Developer | [LinkedIn](https://www.linkedin.com/in/maximodemo/) |
+| Hernan Casasola       | Tech Lead            |                                                     |
+| Lautaro Frioni        | Frontend Developer   |                                                     |
+| Lorenzo Ruggeri       | Backend Developer    |                                                     |
+| Federico Spagnolo     | Backend Developer    |                                                     |
+| Carla Joumier         | UX/UI Designer       |                                                     |
+| Camila Nocella        | QA Tester            |                                                     |
 
 ---
 
