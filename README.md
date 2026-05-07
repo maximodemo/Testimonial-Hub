@@ -51,10 +51,11 @@ Instrucciones detalladas en cada subcarpeta.
 
 ## 🚀 Mis Contribuciones (Frontend)
 
-En este proyecto, me enfoqué en la arquitectura del dashboard administrativo y la experiencia de usuario. Mis principales tareas incluyeron:
-* **Módulo de Categorías:** Desarrollé desde cero la lógica de gestión de categorías, integrando selectores de color dinámicos y validaciones personalizadas con el backend.
-* **Componentes Globales:** Implementé un sistema de modales dinámicos (estilo galaxia) con efectos de desenfoque (glassmorphism) para mejorar el feedback de usuario.
-* **Consumo de APIs:** Conexión y manejo de estados asíncronos para la integración con el backend de Spring Boot, asegurando la consistencia de los datos multimedia.
+En este proyecto, lideré el desarrollo de módulos críticos del dashboard administrativo, priorizando la escalabilidad del código y la fluidez de la interfaz:
+
+* **Arquitectura de Categorías:** Diseñé e implementé la lógica integral de gestión de etiquetas, integrando un selector de color dinámico y sincronización en tiempo real con el backend mediante peticiones asíncronas.
+* **UI/UX:** Desarrollé un sistema de modales personalizados con estética "Galaxy Design" y efectos de glassmorphism, elevando la calidad visual del feedback del sistema.
+* **Robustez y Seguridad:** Gestioné la integración con la API REST (Spring Boot), implementando el manejo de tokens JWT para asegurar rutas protegidas y una experiencia de usuario sin fricciones.
 
 ## Equipo
 
