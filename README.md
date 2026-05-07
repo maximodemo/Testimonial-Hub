@@ -49,17 +49,24 @@ Este proyecto es un **CMS especializado en Edtech** diseñado para que instituci
 
 Instrucciones detalladas en cada subcarpeta.
 
+## 🚀 Mis Contribuciones (Frontend)
+
+En este proyecto, me enfoqué en la arquitectura del dashboard administrativo y la experiencia de usuario. Mis principales tareas incluyeron:
+* **Módulo de Categorías:** Desarrollé desde cero la lógica de gestión de categorías, integrando selectores de color dinámicos y validaciones personalizadas con el backend.
+* **Componentes Globales:** Implementé un sistema de modales dinámicos (estilo galaxia) con efectos de desenfoque (glassmorphism) para mejorar el feedback de usuario.
+* **Consumo de APIs:** Conexión y manejo de estados asíncronos para la integración con el backend de Spring Boot, asegurando la consistencia de los datos multimedia.
+
 ## Equipo
 
-| Nombre                | Rol                  | LinkedIn                                                 |
-| :-------------------- | :------------------- | :------------------------------------------------------- |
-| **Hernan Casasola**   | Tech Lead            | [LinkedIn](https://www.linkedin.com/in/hernan-casasola/) |
-| **Maximo Demo**       | Full Stack Developer | [LinkedIn](#)                                            |
-| **Lautaro Frioni**    | Frontend Developer   | [LinkedIn](#)                                            |
-| **Lorenzo Ruggeri**   | Backend Developer    | [LinkedIn](#)                                            |
-| **Federico Spagnolo** | Backend Developer    | [LinkedIn](#)                                            |
-| **Carla Joumier**     | UX/UI Designer       | [LinkedIn](#)                                            |
-| **Camila Nocella**    | QA Tester            | [LinkedIn](#)                                            |
+| Nombre                | Rol                  | LinkedIn                                   |
+| :-------------------- | :------------------- | :------------------------------------------|
+| **Maximo Demo**       | Full Stack Developer | [LinkedIn](www.linkedin.com/in/maximodemo) |
+| **Hernan Casasola**   | Tech Lead            |                                            |
+| **Lautaro Frioni**    | Frontend Developer   |                                            |
+| **Lorenzo Ruggeri**   | Backend Developer    |                                            |
+| **Federico Spagnolo** | Backend Developer    |                                            |
+| **Carla Joumier**     | UX/UI Designer       |                                            |
+| **Camila Nocella**    | QA Tester            |                                            |
 
 ---
 
